@@ -3,13 +3,13 @@ title: "Bekah & Tobi Pickleball Recommendations"
 layout: default
 ---
 
-# 🏓 Bekah & Tobi’s Pickleball Recommendations
+# Bekah & Tobi’s Pickleball Recommendations
 
 Curated gear and league recommendations based on several paddle reviewers and our personal preferences.
 
 ---
 
-## 🏓 Paddles
+## Paddles
 
 > **Summary:** 
 > The **Honolulu J6CR** is our top paddle pick with elite power and control. 
@@ -17,22 +17,16 @@ Curated gear and league recommendations based on several paddle reviewers and ou
 
 | Paddle | Price | Summary | Link |
 |------|------|---------------|------|
-| **🥇 Honolulu J6CR** | $175.50 <br>*(with code **Ola**)* | Best paddle in the market · Top-tier power & control · *Tobi’s current paddle* | [View Paddle](https://808pickle.com/products/j6cr) |
-| **Bread & Butter Loco** | $199 | Best paddle of 2025 · Top-tier power · Solid control | [View Paddle](https://www.bnbpickleball.com/collections/loco/products/loco-16mm-pickleball-paddle-standard) |
-| **Honolulu J6NF** | $175.50 <br>*(with code **Ola**)* | Elite control & spin | [View Paddle](https://808pickle.com/products/j6nf-pre-order) |
+| **Honolulu J6CR** | $175.50 <br>*(with code **Ola**)* | Best paddle in the market IMO · Top-tier power, control & Durability · *Tobi’s current paddle* | [View Paddle](https://808pickle.com/products/j6cr) |
+| **Bread & Butter Loco** | $199 | Best paddle of 2025 · Top-tier power & control | [View Paddle](https://www.bnbpickleball.com/collections/loco/products/loco-16mm-pickleball-paddle-standard) |
 | **Joola Perseus Pro IV** | $279.95 | Most popular paddle · Solid power and dwell · Durability concerns but good warrenty | [View Paddle](https://joola.com/products/joola-perseus-iv-16mm-pickleball-paddle-1) |
 | **Vatic Pro V-SOL** | $109.99 | Best budget paddle · Well-rounded performance | [View Paddle](https://vaticpro.com/products/v-sol-pro-16mm?variant=62511727935647) |
 
 ---
 
-## 👟 Shoes
-
-### **Montis Pickleball Shoes**
-- 💰 ~$120 *(~$110 with code **Ola**)*
-- 🛡️ Strong durability & warranty
-- 🎾 Designed specifically for pickleball courts
-
-> A great balance of comfort, traction, and long-term value.
+## Gear
+- [Montis Pickleball Shoes](https://montispickleball.com) ~$110 with code **Ola**
+- [Bodhi Pickleball Grips](https://bodhiperformance.com) ~$2.5 with code **TOBIOLA15**
 
 ---
 
@@ -64,11 +58,4 @@ Curated gear and league recommendations based on several paddle reviewers and ou
 
 ---
 
-## ✅ Final Notes
-- Discount code **Ola** works on select paddles, shoes, and leagues.
-- Recommendations prioritize **performance, durability, and value**.
-- Updated regularly as new gear and leagues come out.
-
----
-
-*Last updated: Jan 2026*
+*Last updated: March 2026*
