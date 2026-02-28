@@ -19,6 +19,7 @@ Curated gear and league recommendations based on several paddle reviewers and ou
 ---
 
 ## Gear
+
 | Item | Price | Link |
 |------|-------|------|
 | **Montis Pickleball Shoes** | ~$110 with code **Ola** | [View Shoes](https://montispickleball.com) |
