@@ -17,8 +17,8 @@ Curated gear and league recommendations based on several paddle reviewers and ou
 
 | Paddle | Price | Summary | Link |
 |------|------|---------------|------|
-| **Honolulu J6CR** | $175.50 <br>*(with code **Ola**)* | Best paddle in the market IMO · Top-tier power, control & Durability · *Tobi’s current paddle* | [View Paddle](https://808pickle.com/products/j6cr) |
-| **Bread & Butter Loco** | $199 | Best paddle of 2025 · Top-tier power & control | [View Paddle](https://www.bnbpickleball.com/collections/loco/products/loco-16mm-pickleball-paddle-standard) |
+| **Honolulu J6CR** | $175.50 <br>*(with code **Ola**)* | Best paddle in the market IMO · Solid power, control & Durability · *Tobi’s current paddle* | [View Paddle](https://808pickle.com/products/j6cr) |
+| **Bread & Butter Loco** | $199 | Best paddle of 2025 · Solid power & control | [View Paddle](https://www.bnbpickleball.com/collections/loco/products/loco-16mm-pickleball-paddle-standard) |
 | **Joola Perseus Pro IV** | $279.95 | Most popular paddle · Solid power and dwell · Durability concerns but good warrenty | [View Paddle](https://joola.com/products/joola-perseus-iv-16mm-pickleball-paddle-1) |
 | **Vatic Pro V-SOL** | $109.99 | Best budget paddle · Well-rounded performance | [View Paddle](https://vaticpro.com/products/v-sol-pro-16mm?variant=62511727935647) |
 
