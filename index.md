@@ -21,8 +21,10 @@ Curated gear and league recommendations based on several paddle reviewers and ou
 ---
 
 ## Gear
-- **Montis Pickleball Shoes** ~$110 with code **Ola** - [View Shoes](https://montispickleball.com)
-- **Bodhi Pickleball Grips** ~$2.5 pre grip with code **TOBIOLA15** - [View Grip](https://bodhiperformance.com)
+| Item | Price | Link |
+|------|-------|------|
+| **Montis Pickleball Shoes** | ~$110 with code **Ola** | [View Shoes](https://montispickleball.com) |
+| **Bodhi Pickleball Grips** | ~$2 per grip with code **TOBIOLA15** | [View Grip](https://bodhiperformance.com) |
 
 ---
 
