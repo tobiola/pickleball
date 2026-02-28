@@ -3,8 +3,6 @@ title: "Bekah & Tobi Pickleball Recommendations"
 layout: default
 ---
 
-# Bekah & Tobi’s Pickleball Recommendations
-
 Curated gear and league recommendations based on several paddle reviewers and our personal preferences.
 
 ---
