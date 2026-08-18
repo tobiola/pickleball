@@ -16,7 +16,7 @@ Everything related to Tobi Pickleball in one place.
 ### Honolulu J6CR
 The paddle both Bekah and I use. It’s a great all-around option with solid power, control, and feel on the court.
 
-- Price: about $185 after discount code
+- Price: ~$195, 10% off with discount code "Ola"
 - [View Paddle](https://808pickle.com/products/j6cr)
 
 ### Accessories
