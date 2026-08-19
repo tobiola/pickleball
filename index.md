@@ -5,7 +5,7 @@ layout: default
 
 # Bekah & Tobi Pickleball
 
-Everything related to Tobi Pickleball in one place.
+Everything related to Bekah & Tobi Pickleball in one place.
 
 ## Drill sessions with Tobi
 
