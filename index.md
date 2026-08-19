@@ -16,12 +16,19 @@ Everything related to Bekah & Tobi Pickleball in one place.
 ### Honolulu J6CR
 The paddle both Bekah and I use. It’s a great all-around option with solid power, control, and feel on the court.
 
-- Price: ~$195, 10% off with discount code "Ola"
+- Price: ~$195
+- **10% off with discount code "Ola"**
 - [View Paddle](https://808pickle.com/products/j6cr)
 
 ### Accessories
-- **Montis Pickleball Shoes** — Comfortable and reliable on court. [View Shoes](https://montispickleball.com)
-- **Bodhi Pickleball Grips** — A simple upgrade I like. [View Grips](https://bodhiperformance.com?sca_ref=10692022.30F8BMfCGFe2BT7)
+
+- **Montis Pickleball Shoes** — Comfortable and reliable on court.
+  - **10% off with discount code "Ola"**
+  - [View Shoes](https://montispickleball.com)
+
+- **Bodhi Pickleball Grips** — A simple upgrade I like.
+  - **15% off with discount code "tobiola15"**
+  - [View Grips](https://bodhiperformance.com?sca_ref=10692022.30F8BMfCGFe2BT7)
 
 ## Leagues
 
