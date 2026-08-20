@@ -5,6 +5,8 @@ layout: default
 
 # Bekah & Tobi Pickleball
 
+![Tobi and Bekah with their pickleball medals](assets/images/tobi-and-bekah-pickleball.jpeg)
+
 Everything related to Bekah & Tobi Pickleball in one place.
 
 ## Drill sessions with Tobi
@@ -14,6 +16,9 @@ Everything related to Bekah & Tobi Pickleball in one place.
 ## Favorite gear
 
 ### Honolulu J6CR
+
+![Honolulu J6CR pickleball paddle](assets/images/honolulu-j6cr-paddle.webp)
+
 The paddle both Bekah and I use. It’s a great all-around option with solid power, control, and feel on the court.
 
 - Price: ~$195
