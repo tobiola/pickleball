@@ -30,13 +30,15 @@ The **Honolulu J6CR** is the paddle both Bekah and Tobi use. One of the best per
 
 ### Shoes
 
-- **Montis Pickleball Shoes** are the shoes both Bekah and Tobi wear.
+**Montis Pickleball Shoes** are the shoes both Bekah and Tobi wear.
+
 - **Discount:** 10% off with code **Ola**
 - [View Shoes](https://montispickleball.com)
 
 ### Grips
 
-- **Bodhi Pickleball Grips** are grips both Bekah and Tobi like.
+**Bodhi Pickleball Grips** are grips both Bekah and Tobi like.
+
 - **Discount:** 15% off with code **tobiola15**
 - [View Grips](https://bodhiperformance.com/collections/bodhi-grip-premium-overgrips/products/bodhi-grips-premium-pickleball-overgrips)
 
