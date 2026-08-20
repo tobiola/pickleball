@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
+title: "B & T Pickleball"
 logo: /assets/images/tobi-and-bekah-pickleball.jpeg
+github:
+  is_project_page: false

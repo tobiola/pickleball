@@ -1,17 +1,19 @@
 ---
-title: "Bekah & Tobi Pickleball"
+title: "B & T Pickleball"
 layout: default
 ---
 
-# Bekah & Tobi Pickleball
+# B & T Pickleball
 
 Everything related to Bekah & Tobi Pickleball in one place.
 
-## Drill sessions with Tobi
+## Drill Sessions with Tobi
 
-[Link to drill sessions](https://app.courtreserve.com/Online/Events/List/10117/ALYVV2TTLQ10117?pageTitle=Chesterfield%20Training&rootCall=false)
+Ready to work on your game? **[View upcoming drill sessions and join Tobi](https://app.courtreserve.com/Online/Events/List/10117/ALYVV2TTLQ10117?pageTitle=Chesterfield%20Training&rootCall=false).**
 
-## Paddle
+## Bekah (4.2) & Tobi’s (4.5) Honest Pickleball Recommendations. #NotSponsored
+
+### Paddle
 
 ![Honolulu J6CR pickleball paddle](assets/images/honolulu-j6cr-paddle.webp)
 
@@ -21,14 +23,14 @@ The **Honolulu J6CR** is the paddle both Bekah and I use. It’s a great all-aro
 - **10% off with discount code "Ola"**
 - [View Paddle](https://808pickle.com/products/j6cr)
 
-## Shoes
+### Shoes
 
 **Montis Pickleball Shoes** are comfortable and reliable on court.
 
 - **10% off with discount code "Ola"**
 - [View Shoes](https://montispickleball.com)
 
-## Grips
+### Grips
 
 **Bodhi Pickleball Grips** are a simple upgrade I like.
 
