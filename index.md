@@ -3,15 +3,17 @@ title: "B & T Pickleball"
 layout: default
 ---
 
-# B & T Pickleball
-
 Everything related to Bekah & Tobi Pickleball in one place.
 
-## Drill Sessions with Tobi
+Our DUPR ratings: [Bekah (4.2)](https://dashboard.dupr.com/dashboard/player/5227214507) and [Tobi (4.5)](https://dashboard.dupr.com/dashboard/player/7956609460)
 
-Ready to work on your game? **[View upcoming drill sessions and join Tobi](https://app.courtreserve.com/Online/Events/List/10117/ALYVV2TTLQ10117?pageTitle=Chesterfield%20Training&rootCall=false).**
+## Drill with Tobi
 
-## Bekah (4.2) & Tobi’s (4.5) Honest Pickleball Recommendations. #NotSponsored
+Join Tobi for focused drills designed to sharpen your skills and build consistency on the court.
+
+[Register for a session](https://app.courtreserve.com/Online/Events/List/10117/ALYVV2TTLQ10117?pageTitle=Chesterfield%20Training&rootCall=false)
+
+## Honest Pickleball Recommendations #NotSponsored
 
 ### Paddle
 
