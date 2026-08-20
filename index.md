@@ -16,7 +16,7 @@ View upcoming drill sessions with Tobi.
 
 [Register for a session](https://app.courtreserve.com/Online/Events/List/10117/ALYVV2TTLQ10117?pageTitle=Chesterfield%20Training&rootCall=false)
 
-## Honest Recommendations #NotSponsored
+## Recommendations #NotSponsored
 
 ### Paddle
 
