@@ -24,27 +24,21 @@ View upcoming drill sessions with Tobi.
 
 The **Honolulu J6CR** is the paddle both Bekah and Tobi use. One of the best performing paddles on the market and one of the few with long lasting grit texture.
 
-**Price:** About $195
-
-**Discount:** 10% off with code **Ola**
-
-[View Paddle](https://808pickle.com/products/j6cr-crystal-blue-endurance-surface™-pre-order)
+- **Price:** About $195
+- **Discount:** 10% off with code **Ola**
+- [View Paddle](https://808pickle.com/products/j6cr-crystal-blue-endurance-surface™-pre-order)
 
 ### Shoes
 
-**Montis Pickleball Shoes** are the shoes both Bekah and Tobi wear.
-
-**Discount:** 10% off with code **Ola**
-
-[View Shoes](https://montispickleball.com)
+- **Montis Pickleball Shoes** are the shoes both Bekah and Tobi wear.
+- **Discount:** 10% off with code **Ola**
+- [View Shoes](https://montispickleball.com)
 
 ### Grips
 
-**Bodhi Pickleball Grips** are grips both Bekah and Tobi like.
-
-**Discount:** 15% off with code **tobiola15**
-
-[View Grips](https://bodhiperformance.com?sca_ref=10692022.30F8BMfCGFe2BT7)
+- **Bodhi Pickleball Grips** are grips both Bekah and Tobi like.
+- **Discount:** 15% off with code **tobiola15**
+- [View Grips](https://bodhiperformance.com/collections/bodhi-grip-premium-overgrips/products/bodhi-grips-premium-pickleball-overgrips)
 
 ## Leagues
 
@@ -52,4 +46,4 @@ The **Honolulu J6CR** is the paddle both Bekah and Tobi use. One of the best per
 
 Six-week sessions with multiple level options for players looking to play regularly.
 
-[View Leagues](https://www.paddleuppickleballclub.com/chesterfield)
+- [View Leagues](https://www.paddleuppickleballclub.com/chesterfield)
