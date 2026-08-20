@@ -15,7 +15,7 @@ Ready to work on your game? **[View upcoming drill sessions and join Tobi](https
 
 ### Paddle
 
-![Honolulu J6CR pickleball paddle](assets/images/honolulu-j6cr-paddle.webp)
+<img src="assets/images/honolulu-j6cr-paddle.webp" alt="Honolulu J6CR pickleball paddle" width="280">
 
 The **Honolulu J6CR** is the paddle both Bekah and I use. It’s a great all-around option with solid power, control, and feel on the court.
 
