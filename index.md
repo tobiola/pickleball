@@ -9,7 +9,7 @@ Our DUPR ratings: [Bekah (4.2)](https://dashboard.dupr.com/dashboard/player/5227
 
 ## Drill with Tobi
 
-Join Tobi for focused drills designed to sharpen your skills and build consistency on the court.
+View upcoming drill sessions with Tobi.
 
 [Register for a session](https://app.courtreserve.com/Online/Events/List/10117/ALYVV2TTLQ10117?pageTitle=Chesterfield%20Training&rootCall=false)
 
