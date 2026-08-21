@@ -39,7 +39,7 @@ The **Honolulu J6CR** is the paddle both Bekah and Tobi use. One of the best per
 
 ### Grips
 
-<a href="https://bodhiperformance.com/collections/bodhi-grip-premium-overgrips/products/bodhi-grips-premium-pickleball-overgrips"><img src="assets/images/bodhi-pickleball-grips.webp" alt="White Bodhi pickleball overgrips" width="100"></a>
+<a href="https://bodhiperformance.com/collections/bodhi-grip-premium-overgrips/products/bodhi-grips-premium-pickleball-overgrips"><img src="assets/images/bodhi-pickleball-grips.webp" alt="Blue Bodhi pickleball overgrips" width="100"></a>
 
 **Bodhi Pickleball Grips** are grips both Bekah and Tobi like.
 
